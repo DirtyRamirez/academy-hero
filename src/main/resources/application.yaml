@@ -23,5 +23,5 @@ hero:
     - "Леон С. Кеннеди"
 
 quotes:
-  base-url: http://localhost:8082/
+  base-url: http://quotes:8082/
   quotes-url: quote
